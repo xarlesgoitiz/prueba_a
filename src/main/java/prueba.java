@@ -1,3 +1,10 @@
+import javax.swing.*;
+
 public class prueba {
-    hgvh3454
+    public static void main(String[] args){
+        JFrame frame = new JFrame();
+        JOptionPane.showMessageDialog(frame, "Kaixo ");
+
+
+    }
 }
